@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Project Specific
+research_*.py
+check_error_level.py
+
+# Results
+*.json
+!app/*.json
+!tests/*.json
+
+# Tests (as requested)
+tests/test_converter.py
+tests/test_complex.py
+tests/test_sp.py
+tests/test_simple_sp.py
+tests/test_ultra_complex_sp.py
+tests/final_test.py

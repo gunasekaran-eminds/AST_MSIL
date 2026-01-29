@@ -1,0 +1,5 @@
+sqlglot
+fastapi
+uvicorn
+python-multipart
+requests
