@@ -14,3 +14,9 @@ A FastAPI-based tool to convert MS SQL Server scripts to PL/SQL (Oracle) using A
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the server: `python -m app.main`
 3. Access API docs at: `http://localhost:8000/docs`
+
+---
+
+### 📖 Full Guide
+For detailed instructions, API examples (cURL, Python), and features, check out the **[Usage Guide](USAGE_GUIDE.md)**.
+
